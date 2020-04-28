@@ -1,0 +1,47 @@
+-W1-
+Group founding
+
+-W2-
+1_Deside and confirm our group name and the roles of members.
+2_Discuss which project we should do.
+
+-W3-
+1_We decide to do project-6: Waiter
+2_Discuss and confirm the stakeholders and main functions in our system.
+3_I design the logo of our system
+4_Write proposal.
+
+-W4-
+1_Discuss the functional logics of our system.
+2_I draw all the UI by using Adobe Xd.
+
+-W5-
+1_I finish the first version of UI.
+2_Discuss the UI with front-end engineer.
+3_Modify the UI
+
+-W6-
+1_Modify the UI of the "Duty area" under waiter staffs workplace page.
+2_The final UI is confirmed. 
+
+-W7-
+Communicate with front-end engineer in details to change some wording.
+
+-W8-
+1_Check the completed functionality of the system.
+2_Add instruction pages in every staff workplace page.
+
+-W9-
+1_System Testing.
+2_Debug.
+
+-W10-
+1_Prepare the PPT of presentation.
+2_System demo rehearsal.
+3_Do the presentation.
+
+-W11-
+1_Write report.
+2_Finish peer review assessment.
+
+
